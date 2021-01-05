@@ -1,0 +1,18 @@
+.container{
+ 
+  background-color:rgba(5, 5, 29,0.7);
+  border-radius: 10px;
+  width:100%;
+}
+
+
+.form-control {
+  background-color: rgb(238, 232, 232);
+  height: 30px;
+  width:300px;
+
+  }
+
+
+
+  
